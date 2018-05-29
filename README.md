@@ -1,14 +1,7 @@
 Knetik Architecture Test
 ==================================
 
-Thank you for taking the time to do our architecture test. Please read the scenario carefully:
-
-* [cds](#scenario)
-* [A few technical questions](#technical-questions)
-
-Create a github repository with the following contents.
-
-1. a single markdown file with your 
+Thank you for taking the time to do our architecture test. Feel free to use markdown or the github wiki to document your plan.  Please read through the scenario carefully:
 
 ## Scenario
 
@@ -24,7 +17,7 @@ We want to build a simple app that enables the control of a thermostat, but with
 
 The CEO is asking for a plan and estimate on the first version as he would like to start development ASAP. You have 2 full-stack developers at your disposal.
 
-# Deliverables
+## Deliverables
 - Brief outline of milestones
 - Technologies used to achieve the goal
 - Overall architecture of the system
